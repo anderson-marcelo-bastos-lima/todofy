@@ -70,7 +70,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://anderson-marcelo-bastos-lima.github.io/todofy/)
 
 ## 1. The Project 
-"Todofy" is a web application with a Sing Up Form, Log In Form and the page to create your list of a to-do with local storage.
+Todofy is a web application in which you register your username, log into the app and create your list of to-do with local storage. The application structure has the Sing Up Form, Log In Form and the page to make your list of a to-do with local storage.
 
 It is a project with the application of concepts such as Form Validation, DOM manipulation and local storage.
 
