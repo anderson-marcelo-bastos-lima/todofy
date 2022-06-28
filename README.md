@@ -86,6 +86,7 @@ Thank you so much for getting here, and have fun browsing the project.
 * [GitHub Pages](https://pages.github.com/)
 * [HTML](https://en.wikipedia.org/wiki/HTML5)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 * [Google Fonts](https://fonts.google.com/)
 * [Unsplash](https://unsplash.com/)
 
@@ -170,6 +171,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * [GitHub Pages](https://pages.github.com/)
 * [HTML](https://en.wikipedia.org/wiki/HTML5)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 * [Google Fonts](https://fonts.google.com/)
 * [Unsplash](https://unsplash.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
