@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="C:\Project Stage\Art design\Logo\logo.png"
+   id="svgLogoPS"
+   width="154"
+   height="52"
+   version="1.1"
+   viewBox="0 0 40.745711 13.758085"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview50"
+     showgrid="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:zoom="4"
+     inkscape:cx="71.625001"
+     inkscape:cy="29.875"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g31376"
+     inkscape:pagecheckerboard="0"
+     showguides="false"
+     inkscape:snap-global="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient887"
+       x1="120.51"
+       x2="169.75999"
+       y1="207.14"
+       y2="207.14"
+       gradientTransform="translate(-35.271,77.319)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1633"
+         stop-color="#002d3b"
+         offset="0" />
+      <stop
+         id="stop1639"
+         stop-color="#005e7a"
+         offset=".36804" />
+      <stop
+         id="stop1641"
+         stop-color="#005e7a"
+         offset=".64153" />
+      <stop
+         id="stop1635"
+         stop-color="#008fba"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <text
+     id="text5384"
+     x="64.391479"
+     y="-28.45533"
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="10.583px"
+     letter-spacing="0px"
+     stroke-width="0.26458"
+     word-spacing="0px"
+     style="line-height:1.25"
+     xml:space="preserve"><tspan
+       id="tspan5382"
+       x="64.391479"
+       y="-18.799828"
+       stroke-width="0.26458" /></text>
+  <g
+     id="g1053"
+     transform="translate(-8.1737176,-75.810048)">
+    <g
+       id="g893"
+       transform="translate(0.19316968)">
+      <g
+         id="g31376"
+         transform="translate(-3.6760098,-1.7312433)">
+        <rect
+           id="SVGCleanerId_0"
+           y="79.569656"
+           style="fill:#835ea5;stroke-width:0.264582"
+           width="13.229127"
+           height="2.6458251"
+           x="12.274557" />
+        <g
+           id="g4"
+           transform="matrix(0.02756068,0,0,0.02756068,12.274556,77.80577)"
+           style="stroke-width:9.6">
+          <rect
+             id="SVGCleanerId_0_1_"
+             y="64"
+             style="fill:#835ea5;stroke-width:9.6"
+             width="480.00003"
+             height="96"
+             x="0" />
+        </g>
+        <polyline
+           style="fill:#704d96;stroke-width:9.6"
+           points="0,64 480,64 480,160 "
+           id="polyline6"
+           transform="matrix(0.02756068,0,0,0.02756068,12.274556,77.80577)" />
+        <polygon
+           style="fill:#57387f;stroke-width:9.6"
+           points="480,130.4 444.8,97.6 412,128 444,160 480,160 "
+           id="polygon8"
+           transform="matrix(0.02756068,0,0,0.02756068,12.274556,77.80577)" />
+        <circle
+           style="fill:#ffffff;stroke-width:0.264582"
+           cx="24.092575"
+           cy="80.936661"
+           r="0.63940775"
+           id="circle10" />
+        <path
+           style="fill:#d8d8d8;stroke-width:0.264582"
+           d="m 24.533546,80.495693 c 0.242534,0.242533 0.242534,0.661456 0,0.90399 -0.242534,0.242534 -0.661456,0.242534 -0.90399,0"
+           id="path12" />
+        <rect
+           y="83.09742"
+           style="fill:#835ea5;stroke-width:0.264582"
+           width="13.229127"
+           height="2.6458251"
+           id="rect14"
+           x="12.274557" />
+        <rect
+           y="83.09742"
+           style="fill:#2aa507;stroke-width:0.264582"
+           width="13.229127"
+           height="2.6458251"
+           id="rect16"
+           x="12.274557" />
+        <polyline
+           style="fill:#2e8704;stroke-width:9.6"
+           points="0,192 480,192 480,288 "
+           id="polyline18"
+           transform="matrix(0.02756068,0,0,0.02756068,12.274556,77.80577)" />
+        <polygon
+           style="fill:#205600;stroke-width:9.6"
+           points="480,256 444.8,224 412,255.2 444,288 480,288 "
+           id="polygon20"
+           transform="matrix(0.02756068,0,0,0.02756068,12.274556,77.80577)" />
+        <circle
+           style="fill:#ffffff;stroke-width:0.264582"
+           cx="24.092575"
+           cy="84.420334"
+           r="0.63940775"
+           id="circle22" />
+        <path
+           style="fill:#d8d8d8;stroke-width:0.264582"
+           d="m 24.533546,83.979362 c 0.242534,0.242535 0.242534,0.661456 0,0.903991 -0.242534,0.242533 -0.661456,0.242533 -0.90399,0"
+           id="path24" />
+        <rect
+           y="86.625191"
+           style="fill:#835ea5;stroke-width:0.264582"
+           width="13.229127"
+           height="2.6458251"
+           id="rect26"
+           x="12.274557" />
+        <rect
+           y="86.625191"
+           style="fill:#ffc41d;stroke-width:0.264582"
+           width="13.229127"
+           height="2.6458251"
+           id="rect28"
+           x="12.274557" />
+        <polyline
+           style="fill:#e88f00;stroke-width:9.6"
+           points="0,320 480,320 480,416 "
+           id="polyline30"
+           transform="matrix(0.02756068,0,0,0.02756068,12.274556,77.80577)" />
+        <polygon
+           style="fill:#e86900;stroke-width:9.6"
+           points="480,382.4 444.8,349.6 412,382.4 444,416 480,416 "
+           id="polygon32"
+           transform="matrix(0.02756068,0,0,0.02756068,12.274556,77.80577)" />
+        <circle
+           style="fill:#ffffff;stroke-width:0.264582"
+           cx="24.092575"
+           cy="87.903999"
+           r="0.63940775"
+           id="circle34" />
+        <path
+           style="fill:#d8d8d8;stroke-width:0.264582"
+           d="m 24.533546,87.440984 c 0.242534,0.242533 0.242534,0.661455 0,0.90399 -0.242534,0.242533 -0.661456,0.242533 -0.90399,0"
+           id="path36" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7339px;line-height:1.25;font-family:'Zabatana Poster';-inkscape-font-specification:'Zabatana Poster, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#4c4452;fill-opacity:1"
+           x="29.538227"
+           y="87.877586"
+           id="text1799"><tspan
+             sodipodi:role="line"
+             id="tspan1797"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7339px;font-family:'League Gothic';-inkscape-font-specification:'League Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583;fill:#4c4452;fill-opacity:1"
+             x="29.538227"
+             y="87.877586"><tspan
+               style="fill:#4c4452;fill-opacity:1"
+               id="tspan27190">t</tspan><tspan
+               style="fill:#4c4452;fill-opacity:1"
+               id="tspan33788">o</tspan><tspan
+               style="fill:#4c4452;fill-opacity:1"
+               id="tspan42536">d</tspan><tspan
+               style="fill:#4c4452;fill-opacity:1"
+               id="tspan30096">o</tspan><tspan
+               style="fill:#4c4452;fill-opacity:1"
+               id="tspan37632">f</tspan><tspan
+               style="fill:#4c4452;fill-opacity:1"
+               id="tspan45206">y</tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

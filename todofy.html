@@ -1,0 +1,94 @@
+<html>
+
+<head>
+    <!-- Specify the character encoding for the HTML document. -->
+    <meta charset="UTF-8">
+
+    <!-- A Mobile-optimized site. Not all devices have the same width;
+        you should ensure that your pages work well in a large variety of screen sizes and orientations. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Google Fonts - Courgette, Karla, Lato, Oswald, and Raleway. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Courgette&family=Karla&family=Lato:wght@400;700&family=Oswald&family=Raleway:wght@700&display=swap"
+        rel="stylesheet">
+
+    <!-- My external CSS file. -->
+    <link type="text/css" rel="stylesheet" href="./resources/css/style.css">
+    <link type="text/css" rel="stylesheet" href="./resources/css/todofy.css">
+
+    <!-- Page title in modern browsers. -->
+    <title>Todofy</title>
+</head>
+
+<body>
+    <!-- Start - Header Section with semantic HTML. -->
+    <header class="header-section">
+        <!-- Start - Header Logo -->
+        <a href="./index.html">
+            <img src="./resources/images/logo.svg" alt="Logo." role="img" />
+        </a>
+        <!-- End - Header Logo -->
+        <!-- Start - Header Navigation -->
+        <nav>
+            <label for="drop" class="toggle" id="hamburger">&#8801;</label>
+            <input type="checkbox" id="drop" />
+            <ul class="menu">
+                <li><a href="./index.html">Log Out</a></li>
+            </ul>
+        </nav>
+        <!-- End - Header Navigation -->
+    </header>
+    <!-- End - Header Section with semantic HTML. -->
+
+
+
+
+    <!-- Start - Task Form Section. -->
+    <div class="form-section">
+        <div class="form-container">
+            <h1>Create your to-do list.</h1>
+            <div class="form-container-fields">
+                <label for="field-task">Task name:</label>
+                <input type="text" id="field-task" name="taskName">
+            </div>
+            <div class="form-container-buttons">
+                <button onclick="addTaskStorage()">Add the Task</button>
+            </div>
+            <div id="show-message"></div>
+        </div>
+    </div>
+    <!-- End - Task Form Section. -->
+
+
+
+
+    <!-- Start - Task List Section. -->
+    <div class="task-list-container" id="task-list">
+        <!--
+        <div class="task">Review the wireframe.<span class="close"> X</span></div>
+        <div class="task">User stories.<span class="close"> X</span></div>
+        <div class="task">Coding.<span class="close"> X</span></div>
+        -->
+    </div>
+    <!-- End - Task List Section. -->
+
+
+
+
+    <!-- Start - Footer Section with semantic HTML. -->
+    <footer class="footer-section">
+        <span>© 2022 Anderson Lima</span>
+    </footer>
+    <!-- End - Footer Section with semantic HTML. -->
+
+
+
+
+    <!-- JavaScript -->
+    <script type="text/javascript" src="./resources/js/todofy.js"></script>
+</body>
+
+</html>

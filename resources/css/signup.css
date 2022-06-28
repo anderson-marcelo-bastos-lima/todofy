@@ -1,0 +1,102 @@
+/**
+ * This document contains the styles of the Todofy website Sign Up Page
+ * divided into the sections below:
+ *
+ * 1. Global Styles.
+ *
+ * 2. Sign Up Section.
+ *
+ */
+
+
+
+
+/**
+ * 1. Global Styles.
+ */
+* {
+    box-sizing: border-box
+}
+
+
+
+
+/**
+ * 2. Sign Up Section.
+ */
+.form-signup-section {
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #513A66;
+    font-family: 'Karla', sans-serif;
+    font-size: 0.875rem;
+    line-height: 1.625rem;
+    letter-spacing: 0px;
+}
+
+.form-signup-section form {
+    border: 1px solid #ccc;
+}
+
+.form-container {
+    padding: 16px;
+}
+
+.form-container h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+    letter-spacing: 0px;
+    color: #4C4452;
+}
+
+/* Full-width input fields */
+.form-signup-section input[type=text],
+.form-signup-section input[type=password] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+
+.form-signup-section input[type=text]:focus,
+.form-signup-section input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+.form-signup-section hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+}
+
+/* Set a style for all buttons */
+.form-signup-section button {
+    background-color: #009882;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    font-family: 'Karla', sans-serif;
+    font-size: 1.1rem;
+    letter-spacing: 0px;
+}
+
+.form-signup-section button:hover {
+    opacity: 1;
+}
+
+#show-message {
+    color: red;
+    font-family: 'Lato', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.1rem;
+}
